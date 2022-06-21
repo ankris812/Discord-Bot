@@ -11,7 +11,7 @@ client.commands = new Enmap();
 
 client.once("ready", () => {
 	console.log("------------------");
-	console.log("Xuan - Discord Bot");
+	console.log("Kalliope - Discord Bot");
 	console.log("------------------");
 	console.log("\nStarting... ");
     console.log('\nBot is ready');
