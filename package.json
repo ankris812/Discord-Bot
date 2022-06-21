@@ -1,5 +1,5 @@
 {
-  "name": "blackspirit",
+  "name": "Kalliope",
   "version": "1.0.0",
   "description": "A Modular Bot written with DiscordJS",
   "main": "sync.js",
@@ -32,17 +32,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kzarka/Discord-Bot.git"
+    "url": "git+https://github.com/ankris812/Discord-Bot.git"
   },
   "keywords": [
-    "kzarka",
+    "ankris",
     "discord",
     "bot"
   ],
-  "author": "kzarka",
+  "author": "ankris812",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kzarka/Discord-Bot/issues"
+    "url": "https://github.com/ankris812/Discord-Bot/issues"
   },
-  "homepage": "https://github.com/kzarka/Discord-Bot#readme"
+  "homepage": "https://github.com/ankris812/Discord-Bot#readme"
 }
