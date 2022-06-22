@@ -2,7 +2,7 @@
   "name": "blackspirit",
   "version": "1.0.0",
   "description": "A Modular Bot written with DiscordJS",
-  "main": "sync.js"
+  "main": "sync.js",
   "engines": {
     "node": "16.x"
   }
