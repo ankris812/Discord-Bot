@@ -4,7 +4,7 @@
   "description": "A Modular Bot written with DiscordJS",
   "main": "sync.js"
   "engines": {
-    "node": "16.x
+    "node": "16.x"
   "dependencies": {
     "@discordjs/opus": "^0.3.3",
     "axios": "^0.19.2",
